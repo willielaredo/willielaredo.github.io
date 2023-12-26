@@ -8,8 +8,9 @@
 # Other Interests
 
 * Sailing
-* Violin Lessons
+* Violin
 * Mexican History
+* [Socialism](/socialism)
 
 # Links
 
