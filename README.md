@@ -15,5 +15,5 @@
 # Links
 
 * [GitHub](https://github.com/willielaredo)
-* [Twitter](www.twitter.com/willielaredo)
+* [Twitter](https://www.twitter.com/willielaredo)
 * CV
