@@ -1,18 +1,18 @@
-# Digital Projects
+## Digital Projects
 
 * [LeftLinks](https://www.leftlinks.org) / [Left Guide](https://www.left.guide), side project
 * [DSA Publication Archiving](https://democraticleft.dsausa.org/issues), scanning/prepping
 * [George Wiley Center](https://www.georgewileycenter.org), volunteer consulting
 * [AFS-USA](https://www.afsusa.org), day job
 
-# Other Interests
+## Other Interests
 
 * Sailing
 * Violin
 * Mexican History
 * [Socialism](/socialism)
 
-# Links
+## Links
 
 * [GitHub](https://github.com/willielaredo)
 * [Twitter](https://www.twitter.com/willielaredo)
