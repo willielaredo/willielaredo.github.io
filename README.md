@@ -1,6 +1,6 @@
 ## Digital Projects
 
-* [LeftLinks](https://www.leftlinks.org) / [Left Guide](https://www.left.guide), side project(s)****
+* [LeftLinks](https://www.leftlinks.org) / [Left Guide](https://www.left.guide), side project(s)
 * [DSA Publication Archiving](https://democraticleft.dsausa.org/issues), scanning/prepping
 * [George Wiley Center](https://www.georgewileycenter.org), volunteer consulting
 * [p5.js creative coding](/p5)
