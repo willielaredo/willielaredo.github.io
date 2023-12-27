@@ -12,7 +12,7 @@
 * Violin
 * Mexican History
 * [Socialism](/socialism)
-`
+
 ## Links
 
 * [GitHub](https://github.com/willielaredo)
