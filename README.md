@@ -8,7 +8,7 @@
 
 ## Other Interests
 
-* Sailing
+* [Sailing](/sailing)
 * Violin
 * Mexican History
 * [Socialism](/socialism)
