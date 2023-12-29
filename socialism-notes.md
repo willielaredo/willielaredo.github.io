@@ -1,6 +1,6 @@
 ## What socialism means to me
 
-To help answer this for myself, I created a writing project that [you can find here](/socialism). 
+To help answer this for myself, I created a "What is Socialism" writing project that [you can find here](/socialism). 
 
 Publishing it to the world wide web forces me to be more careful and clear than I would be if I were writing only for myself.
 
@@ -18,6 +18,6 @@ In 2016, I helped start up the DSA National Tech Committee, working on committee
 
 Upon moving to Northampton in Western Massachusetts, I served on the executive committee of the River Valley DSA Chapter as Treasurer in 2018 and 2020. 
 
-I helped scan back issues of [[Democratic Left]] and [[New American Movement]] publications to create the digital archive that you can find on the [DL website](https://democraticleft.dsausa.org/issues/page/18/).
+I helped scan back issues of Democratic Left and New American Movement publications to create the digital archive that you can find on the [DL website](https://democraticleft.dsausa.org/issues/page/18/).
 
 During COVID time, I took a big step back from DSA to explore other interests and to move to Providence, RI. I have attended a few Rhode Island DSA meetings, but very few and far between. 
