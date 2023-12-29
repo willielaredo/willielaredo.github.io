@@ -11,7 +11,7 @@
 * [Sailing](/sailing)
 * Violin
 * Mexican History
-* [Socialism](/socialism)
+* [Socialism](/socialism-notes)
 
 ## Links
 
