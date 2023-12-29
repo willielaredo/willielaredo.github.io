@@ -10,13 +10,13 @@ This site aligns with the digital garden concept as explained by [Maggie Appleto
 
 ## Socialist CV
 
-I joined DSA in 2014 when I first moved to Rhode Island from Brooklyn. I help start the Providence DSA chapter in 2014 and coordinated the local Jacobin reading group. 
+I joined DSA in 2014 and helped start the Providence DSA Organizing Committee and coordinated the local Jacobin reading group. 
 
 In 2015 and 2017 I attended DSA national conventions as an at-large delegate.
 
 In 2016, I helped start up the DSA National Tech Committee, working on committee organization and website migration from Nation Builder to Wordpress.
 
-Upon moving to Northampton in Western Massachusetts, I served on the executive committee of the River Valley DSA Chapter as Treasurer in 2018 and 2020. 
+Upon moving to Northampton in Western Massachusetts, I served on the executive committee of the River Valley DSA Chapter as Treasurer in 2018 and 2020. Served as co-chair of Electoral Committee 2019. 
 
 I helped scan back issues of Democratic Left and New American Movement publications to create the digital archive that you can find on the [DL website](https://democraticleft.dsausa.org/issues/page/18/).
 

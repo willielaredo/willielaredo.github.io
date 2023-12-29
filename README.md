@@ -10,7 +10,7 @@
 * Wedding Officiating
 * [Sailing](/sailing)
 * Violin
-* Mexican History
+* Mexico
 * [Socialism](/socialism-notes)
 
 ## Support
@@ -21,7 +21,7 @@
 * [Rhode Island National History Survey](https://rinhs.org/)
 * [George Wiley Center](https://www.georgewileycenter.org)
 * [No More Deaths](https://nomoredeaths.org/en/)
-* [The Dig](https://thedigradio.com/)
+* [The Dig Podcast](https://thedigradio.com/)
 * [The Shoestring](https://theshoestring.org/)
 * [Steve Ahlquist](https://substack.com/@steveahlquist)
 
@@ -29,4 +29,5 @@
 
 * [GitHub](https://github.com/willielaredo)
 * [Twitter](https://www.twitter.com/willielaredo)
+* [Bandcamp](https://chileallam.bandcamp.com/)
 * CV
