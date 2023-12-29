@@ -1,3 +1,7 @@
+---
+Title: Home
+---
+
 ## Digital Projects
 
 * [LeftLinks](/left-links) / [Left Guide](left-guide), side project(s)
