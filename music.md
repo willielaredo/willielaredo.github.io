@@ -1,3 +1,7 @@
+---
+title: Music
+---
+
 Violin
 Guitar
 Piano

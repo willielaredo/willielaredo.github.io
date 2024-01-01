@@ -1,3 +1,8 @@
+---
+title: Socialism
+topnav: yes
+---
+
 ## What socialism means to me
 
 To help answer this for myself, I created a "What is Socialism" writing project that [you can find here](/socialism). 

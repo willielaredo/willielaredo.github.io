@@ -1,3 +1,8 @@
+---
+title: Sailing
+topnav: d
+---
+
 In spring/summer 2022 I took sailing lessons at the [Community Boating Center](https://www.communityboating.com/) in Providence, RI.
 
 In 2022, I sailed quite a bit, but less so in the 2023 season.

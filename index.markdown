@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
 ## Digital Projects
 
@@ -33,7 +34,5 @@ layout: home
 
 ## Links
 
-* [GitHub](https://github.com/willielaredo)
-* [Twitter](https://www.twitter.com/willielaredo)
 * [Bandcamp](https://chileallam.bandcamp.com/)
 * CV
