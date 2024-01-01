@@ -8,7 +8,7 @@ title: Home
 ## Digital Projects
 
 * [LeftLinks](/left-links) / [Left Guide](left-guide), side project(s)
-* [DSA Publication Digitization](https://democraticleft.dsausa.org/issues), scanning/prepping/publishing
+* [DSA Publication Digitization](dsa-archive), scanning/prepping/publishing
 * [Creative Coding](/creative-coding), just for fun
 * [AFS-USA](https://www.afsusa.org), day job
 
